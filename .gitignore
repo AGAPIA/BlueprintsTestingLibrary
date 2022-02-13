@@ -42,3 +42,5 @@ SourceArt/**/*.tga
 *.xcodeproj
 *.xcworkspace
 *_BuiltData.uasset
+Documentation/Demo_2_user_request_fuzzing.mp4
+Documentation/Demo_automatic_fuzzing.mp4
